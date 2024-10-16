@@ -1,4 +1,4 @@
-# Into the Ashverse
+# Into the Ashverse - Ashesi Admissions Streamlining App
 
 **Authors:**  
 - McNobert Amoah
